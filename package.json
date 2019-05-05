@@ -1,0 +1,25 @@
+{
+  "name": "tryjest",
+  "version": "1.0.0",
+  "description": "Project to try and learn Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config jest.config.js"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "js",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Tapas Adhikary",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.4.4",
+    "babel-jest": "^24.7.1",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^24.7.1"
+  }
+}
+
